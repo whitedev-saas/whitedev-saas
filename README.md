@@ -72,9 +72,9 @@
   Cloud
   </h3>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-8DD6F9?style=flat-square&logo=AWS&logoColor=white" />
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/-AWS Lambda-672777?style=flat-square&logo=AWS Lambda&logoColor=white" />
-  <img alt="Amazon S3" src="https://img.shields.io/badge/-Amazon S3-F05032?style=flat-square&logo=Amazon S3&logoColor=white" />
-  <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon EC2-white?style=flat-square&logo=Amazon EC2&logoColor=darkgreen" />
+  <img alt="AWSLambda" src="https://img.shields.io/badge/-AWS Lambda-672777?style=flat-square&logo=AWS Lambda&logoColor=white" />
+  <img alt="AmazonS3" src="https://img.shields.io/badge/-Amazon S3-F05032?style=flat-square&logo=Amazon S3&logoColor=white" />
+  <img alt="AmazonEC2" src="https://img.shields.io/badge/-Amazon EC2-white?style=flat-square&logo=Amazon EC2&logoColor=darkgreen" />
   <img alt="GCP" src="https://img.shields.io/badge/-GCP-ffca28?style=flat-square&logo=GCP&logoColor=gray" />
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-302922?style=flat-square&logo=Azure&logoColor=white" />
   <img alt="DynamoDB" src="https://img.shields.io/badge/-DynamoDB-FF6C37?style=flat-square&logo=DynamoDB&logoColor=white" />
