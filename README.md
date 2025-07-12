@@ -3,7 +3,7 @@
 <!-- <img align="right" src="https://i.pinimg.com/originals/cd/d9/76/cdd97628928661edc4902fa9d97342c5.jpg" width="200"/> -->
 
 <p aligh="left">
-  <p>I am Full Stack AI Developer</p>
+  <p>I am AI SaaS Developer</p>
   <p>💡&nbsp;As a seasoned AI SaaS Developer and two times part of the VC funded backed startups, I’ve spent 8+ years designing AI-driven products that scale. My niche? Turning complex ideas into lean, market-winning SaaS platforms, automation tools, and intelligent systems. 😜</p>
   
 
