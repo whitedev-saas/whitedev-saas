@@ -4,7 +4,7 @@
 
 <p aligh="left">
   <p>I am Full Stack AI Developer</p>
-  <p>💡&nbsp;As a seasoned Full Stack AI Developer and two times part of the VC funded backed startups, I’ve spent 8+ years designing AI-driven products that scale. My niche? Turning complex ideas into lean, market-winning SaaS platforms, automation tools, and intelligent systems. 😜</p>
+  <p>💡&nbsp;As a seasoned AI SaaS Developer and two times part of the VC funded backed startups, I’ve spent 8+ years designing AI-driven products that scale. My niche? Turning complex ideas into lean, market-winning SaaS platforms, automation tools, and intelligent systems. 😜</p>
   
 
  💼 $500K+ raised by startups I’ve built for\
@@ -95,7 +95,7 @@
 <h4>• Scalable AI powered SaaS & Fast MVP Development</h4>
 <h4>• Python/FastAPI Backends with AI/ML Integration</h4>
 <h4>• SaaS Automation solutions for Marketing
-<h4>• Growth & Digital Marketing (CRM & ERP Solutions)</h4>
+<h4>• Growth & Digital Marketing (GHL & CRM & ERP Solutions)</h4>
 <h4>• Real Time and Custom Analytics Dashboard</h4>
 <h4>• Custom AI Agents & Custom Chatbot</h4>
 
